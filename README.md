@@ -6,5 +6,8 @@
 - 😄 Pronouns: he/him
 
 ## Knowledge
-- Languages: ![Alt Text](https://camo.githubusercontent.com/690be1a330f850624d7bc0542ebff05fcd5e91879e7ca49ac72e56a8200f6005/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176612d3030373339363f7374796c653d666c6174266c6f676f3d6a617661) ![Alt Text](https://camo.githubusercontent.com/4b30b4c40d84c6fe0a2f12d9d710873a534bda8237bfd2a7fdb6794ab18c4ae9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373641423f7374796c653d666c6174266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465)
-- Databases: ![Alt Text](https://camo.githubusercontent.com/8152ce18af98a5bbcf8dfef8512f61c25889097e4b6a5ec0f58d46c8ff4b482f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3434373941313f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
+- Languages: 
+![Java](https://img.shields.io/badge/-java-007396?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+- Databases: 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
