@@ -1,4 +1,4 @@
-# Facts
+##Facts
 
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 🤔 I’m looking for help with development
