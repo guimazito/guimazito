@@ -11,3 +11,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 - Databases: 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+## GitHub Pages
+- https://guimazito.github.io/studying-c-language
