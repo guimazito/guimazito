@@ -19,4 +19,4 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## GitHub Pages
-- https://guimazito.github.io/game-development
+- https://github.com/guimazito/game-development#readme
