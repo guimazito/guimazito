@@ -19,4 +19,5 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## GitHub Pages
-- https://guimazito.github.io/studying-c-language
+- https://guimazito.github.io/c-language
+- https://guimazito.github.io/game-development
