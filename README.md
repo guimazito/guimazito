@@ -5,7 +5,7 @@
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
-- 🤔 I’m looking for help with development
+- 🤔 I’m looking for help with development and also to share my knowledge
 - 💬 You can also ask me about ps4 and pc games
 - 😄 Pronouns: he/him
 
