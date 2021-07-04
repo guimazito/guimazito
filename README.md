@@ -23,4 +23,5 @@
 - https://github.com/guimazito/game-development#readme
 - https://github.com/guimazito/home-automation#readme
 - https://github.com/guimazito/test-automation#readme
+- https://github.com/guimazito/python-projects#readme
 
