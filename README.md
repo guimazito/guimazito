@@ -26,4 +26,5 @@
 - https://github.com/guimazito/python-projects#readme
 - https://github.com/guimazito/goal-control#readme
 - https://github.com/guimazito/android-projects#readme
+- https://github.com/guimazito/game_automation#readme
 
