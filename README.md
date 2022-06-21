@@ -19,6 +19,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## GitHub Pages
+- https://github.com/guimazito/flask-project#readme
 - https://github.com/guimazito/front-end#readme
 - https://github.com/guimazito/game-development#readme
 - https://github.com/guimazito/home-automation#readme
