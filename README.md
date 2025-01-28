@@ -26,13 +26,18 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ## GitHub Pages
+- https://github.com/guimazito/bet-json#readme
+- https://github.com/guimazito/pdf-tool#readme
 - https://github.com/guimazito/flask-project#readme
-- https://github.com/guimazito/front-end#readme
-- https://github.com/guimazito/game-development#readme
+- https://github.com/guimazito/pong#readme
 - https://github.com/guimazito/home-automation#readme
-- https://github.com/guimazito/test-automation#readme
-- https://github.com/guimazito/python-projects#readme
+- https://github.com/guimazito/reminder-app#readme
+- https://github.com/guimazito/server-folders#readme
 - https://github.com/guimazito/goal-control#readme
-- https://github.com/guimazito/android-projects#readme
-- https://github.com/guimazito/game_automation#readme
+- https://github.com/guimazito/simcard-control#readme
+- https://github.com/guimazito/game-automation#readme
+- https://github.com/guimazito/jigsaw-automation#readme
+- https://github.com/guimazito/starbucks-landing-page#readme
+- https://github.com/guimazito/rm-webpage#readme
+- https://github.com/guimazito/responsive-webpage-form#readme
 
