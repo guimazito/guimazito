@@ -4,7 +4,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - 🤔 I’m looking for help with development and also to share my knowledge
-- 💬 You can also ask me about games
+- 💬 You can also ask me about embedded projects
 - 😄 Pronouns: he/him
 
 ## Skills
